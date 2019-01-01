@@ -1,0 +1,144 @@
+Problems to be practised :
+--------------------------------------------------------
+
+Star printing
+Number problem
+string problem
+2D problem
+dates
+How many saturdays in this month
+scalability load balancing binary search tree 
+Hash maps
+
+Topics to be studied :
+--------------------------------------------------------
+
+Object Oriented Programming
+JWT and Access Token - OWASP - Security aspects
+SOAP vs REST vs WSDL APIs
+Azure - Devops and Container - Cloud related concepts
+Algos - Data Structures - Concepts
+Angular JS basics
+
+
+Design :
+--------------------------------------------------------
+Base Model
+Efficient Storage - CDN and other Aspects
+Security Aspects 
+Server Interaction
+Handling Requests  -- In Memory DB
+Scalability
+Encryption
+
+At Capgemini :
+--------------------------------------------------------
+1. Data Migration
+2. UI Projects
+3. Web API - Rest APIs
+
+-- Azure Redis, Cosmos DB, SQL Server and 
+
+------------------------------------------------------
+
+Facebook - Questions and Areas for improvements
+
+
+Why FB ?
+---------------------
+
+1. Better company out of all in the market - In terms of innovation, huge amount of users are involved
+2. Because bunch of talents 
+3. Lot of space to learn and use my skills  - There are plenty of opportunities for advancement
+
+
+
+Improvements :
+---------------------
+
+1. News Feed with Date Time passing 
+2. Ranking for the Likes/Comments
+3. Top 5 Rated topics by me - With Percentage (Sports - 75%, Movies - 25% etc.,)
+4. Gaming Ads
+5. Happy Birthdays Automate it
+
+Facebook Questions :
+---------------------
+
+1. Internal Solutions Engineer Role  ? Is it like the internal team's requirements or working for FB website related tasks ?
+ 
+2. How to work with other developers inside FB ? Like Stackoverflow (Facebook Mentorship)
+
+3. As an FB Employee, Before launching any application, do we get to play around before release ?
+
+
+
+-------------------------------------------------------
+
+News Feed   --Bunch of New Topics
+            --Based on Phone, Who posted, How old it is
+            --Predictions - How to Choose the topics from all of the above 
+            --Buckets - Pick the topics from different 10 buckets
+            
+            -- Room for mistakes for confusing others to mislead the hackers
+            
+          - Older Posts - We should have some ranking algorithm for picking the topics
+          - Relationship to the poster - In what way, the user is engaged to the topics  
+          - Based on Number of Votes - Likes/Shares/Comments
+------------------------------------------------------------------
+
+
+
+Trivia :
+----------------
+
+First time  :  360 Degree Videos  -- Working in Chrome and FireFox - Not in IE or Safari    : Ocular Vision
+Huge Data   :  300 PETABYTES of user data on its servers
+
+Just 19 minutes of Outage costed 400K USD
+
+Videos are most shared content type 
+
+Total Users        -- 2.2 Billion Users
+Most Pokes         -- 1,000,069 pokes  Yan D from Singapore 
+Most Likes         -- 4,410,548 likes  Obama's Pic
+Language           -- ENGLISH (Pirates)
+
+
+Mark Zuckerberg    -- red-green color blindness
+
+------------------------------------------------------------------
+
+
+Algos :
+
+Sorting Algorithms :
+--------------------------------------------------------
+Mergesort
+QuickSort
+Heap Sort
+Insertion sort
+Selection Sort
+Bubble Sort
+Bucket Sort
+
+
+Binary Tree, Binary Search Tree, Heaps, Binary Searching
+Serverless
+AWS
+SOA
+Docker 
+Container
+
+
+Recursion
+Trees - Struct Model
+2D Arrays and List of Lists
+Sub strings
+BFS and DFS
+Page Rank Algorithm
+Facebook Rank Algorithm
+RegEx
+Container and Docker
+
+
