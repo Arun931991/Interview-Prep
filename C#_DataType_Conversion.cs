@@ -76,3 +76,12 @@ string s = new string(c);
                 
             }
             l.ForEach(el => Console.WriteLine(el));
+
+-------------------------------------------------------------------
+
+//Uppercase A has ASCII value 65 in decimal .So for Z ,the value is 90 in decimal.
+
+//Lowercase a has ASCII value 97 in decimal .So for z ,the value is 122 in decimal.
+
+-------------------------------------------------------------------
+
