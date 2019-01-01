@@ -10,10 +10,7 @@ class Solution
         l.printnode();
         
     }
-    
-    
-
-    
+  
 }
 
 internal class Node
